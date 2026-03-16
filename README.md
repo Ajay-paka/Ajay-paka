@@ -31,3 +31,5 @@ https://ajaypaka-portfolio.vercel.app
 ## 📫 Connect With Me
 
 LinkedIn: https://linkedin.com/in/ajaypaka
+
+Email: ajaypaka47023@gmail.com
