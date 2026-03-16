@@ -1,93 +1,63 @@
 <div align="center">
 
-# ⚡ Hi, I'm Ajay
+# Hi, I'm Ajay 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Building+AI-Powered+Applications;Exploring+Cybersecurity+%26+Secure+Systems;Java+%7C+Python+%7C+Linux+%7C+AI" />
-
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;Building+AI-Powered+Applications;Exploring+Cybersecurity+%26+Secure+Systems;Java+%7C+Python+%7C+Linux" />
 
 </div>
 
----
+<br>
 
 ## 🚀 About Me
 
-```text
-Building practical software that solves real-world problems
-with intelligence, automation, and security in mind.
-```
+* Software Developer focused on practical product development
+* Building AI-powered applications and backend systems
+* Exploring cybersecurity, Kali Linux, and secure software engineering
 
-* 💻 Developing backend systems and AI-powered applications
-* 🔐 Exploring cybersecurity, Kali Linux, and secure software engineering
-* ⚡ Focused on practical product development and scalable solutions
-
----
+<br>
 
 ## 💼 Featured Projects
 
-### 🔹 Fake Job Detector
+* **Fake Job Detector** — AI-assisted fraud detection for suspicious job postings
+* **Fresho Careers** — Full-stack job portal for job seekers and recruiters
+* **Expense Tracker** — Python desktop application for financial tracking
 
-AI-assisted fraud detection tool for identifying suspicious job postings, scam indicators, and unsafe recruiter patterns.
-
-### 🔹 Fresho Careers
-
-Full-stack job portal connecting job seekers and recruiters with structured backend logic and deployment-ready architecture.
-
-### 🔹 Expense Tracker
-
-Python desktop application for transaction tracking, local data storage, and financial management.
-
----
+<br>
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-Developer-red"/>
-<img src="https://img.shields.io/badge/Python-Programming-blue"/>
-<img src="https://img.shields.io/badge/SQL-Database-red"/>
-<img src="https://img.shields.io/badge/Git-VersionControl-blue"/>
-<img src="https://img.shields.io/badge/Linux-System-red"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-blue"/>
-<img src="https://img.shields.io/badge/AI-Building-red"/>
+<p>
+<img src="https://img.shields.io/badge/Java-58A6FF?style=flat"/>
+<img src="https://img.shields.io/badge/Python-58A6FF?style=flat"/>
+<img src="https://img.shields.io/badge/SQL-58A6FF?style=flat"/>
+<img src="https://img.shields.io/badge/Git-58A6FF?style=flat"/>
+<img src="https://img.shields.io/badge/Linux-58A6FF?style=flat"/>
+<img src="https://img.shields.io/badge/Cybersecurity-58A6FF?style=flat"/>
 </p>
 
----
+<br>
 
-## 📊 GitHub Intelligence
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ajay-paka&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-paka&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ajay-paka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-paka&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-paka&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
----
+<br>
 
 ## 🌐 Connect
 
 * Portfolio → https://ajaypaka-portfolio.vercel.app
 * LinkedIn → https://linkedin.com/in/ajaypaka
 
----
+<br>
 
 <div align="center">
 
-## 🔥 Current Focus
-
-AI Applications • Secure Systems • Backend Engineering • Cybersecurity Learning
-
-</div>
-
----
-
-<div align="center">
-
-> *Turning ideas into practical products through code.*
+*Building software that solves practical problems with intelligence and security in mind.*
 
 </div>
