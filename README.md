@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -19,7 +19,7 @@ with intelligence, automation, and security in mind.
 * 🔐 Exploring cybersecurity, Kali Linux, and secure software engineering
 * ⚡ Focused on practical product development and scalable solutions
 
----
+
 
 ## 💼 Featured Projects
 
@@ -36,6 +36,7 @@ Full-stack job portal connecting job seekers and recruiters with structured back
 Python desktop application for transaction tracking, local data storage, and financial management.
 
 
+
 ## ⚙️ Tech Stack
 
 <p align="center">
@@ -48,7 +49,7 @@ Python desktop application for transaction tracking, local data storage, and fin
 <img src="https://img.shields.io/badge/AI-Building-red"/>
 </p>
 
----
+
 
 ## 📊 GitHub Intelligence
 
@@ -64,14 +65,16 @@ Python desktop application for transaction tracking, local data storage, and fin
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-paka&theme=tokyonight" />
 </p>
 
----
+
+
 
 ## 🌐 Connect
 
 * Portfolio → https://ajaypaka-portfolio.vercel.app
 * LinkedIn → https://linkedin.com/in/ajaypaka
 
----
+
+
 
 <div align="center">
 
