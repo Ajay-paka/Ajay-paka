@@ -35,18 +35,17 @@ Full-stack job portal connecting job seekers and recruiters with structured back
 
 Python desktop application for transaction tracking, local data storage, and financial management.
 
----
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-Developer-blue"/>
+<img src="https://img.shields.io/badge/Java-Developer-red"/>
 <img src="https://img.shields.io/badge/Python-Programming-blue"/>
-<img src="https://img.shields.io/badge/SQL-Database-blue"/>
+<img src="https://img.shields.io/badge/SQL-Database-red"/>
 <img src="https://img.shields.io/badge/Git-VersionControl-blue"/>
-<img src="https://img.shields.io/badge/Linux-System-blue"/>
+<img src="https://img.shields.io/badge/Linux-System-red"/>
 <img src="https://img.shields.io/badge/Cybersecurity-Learning-blue"/>
-<img src="https://img.shields.io/badge/AI-Building-blue"/>
+<img src="https://img.shields.io/badge/AI-Building-red"/>
 </p>
 
 ---
@@ -82,7 +81,6 @@ AI Applications • Secure Systems • Backend Engineering • Cybersecurity Lea
 
 </div>
 
----
 
 <div align="center">
 
