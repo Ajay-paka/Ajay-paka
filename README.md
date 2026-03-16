@@ -26,11 +26,11 @@ Focused on backend systems, AI-driven applications, secure software engineering,
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-Developer-blue)
+![Java](https://img.shields.io/badge/Java-Developer-red)
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-red)
 ![Git](https://img.shields.io/badge/Git-VersionControl-blue)
-![Linux](https://img.shields.io/badge/Linux-System-blue)
+![Linux](https://img.shields.io/badge/Linux-System-red)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blue)
 
 ---
