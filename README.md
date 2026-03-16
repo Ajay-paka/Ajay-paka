@@ -1,62 +1,95 @@
-# Hi, I'm Ajay 👋
+<div align="center">
 
-### Software Developer | AI-Powered Applications | Exploring Cybersecurity & Secure Systems
+# ⚡ Hi, I'm Ajay
 
-Building practical software products using **Java**, **Python**, and modern development tools.
-Focused on backend systems, AI-driven applications, secure software engineering, and solving real-world problems through technology.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Building+AI-Powered+Applications;Exploring+Cybersecurity+%26+Secure+Systems;Java+%7C+Python+%7C+Linux+%7C+AI" />
 
----
+<br>
 
-## 🚀 Current Projects
+<img src="https://komarev.com/ghpvc/?username=Ajay-paka&label=Profile%20Views&color=0e75b6&style=flat" />
 
-* **Fake Job Detector** — AI-assisted fraud detection tool for suspicious job postings
-* **Fresho Careers** — Full-stack job portal connecting job seekers and recruiters
-* **Expense Tracker** — Python desktop application for personal finance management
+</div>
 
 ---
 
-## 🔐 Currently Learning
+## 🚀 About Me
 
-* Cybersecurity Fundamentals
-* Kali Linux & Linux Environments
-* Secure Software Systems
-* AI-powered Product Development
+```text
+Building practical software that solves real-world problems
+with intelligence, automation, and security in mind.
+```
 
----
-
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-Developer-red)
-![Python](https://img.shields.io/badge/Python-Programming-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-red)
-![Git](https://img.shields.io/badge/Git-VersionControl-blue)
-![Linux](https://img.shields.io/badge/Linux-System-red)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blue)
+* 💻 Developing backend systems and AI-powered applications
+* 🔐 Exploring cybersecurity, Kali Linux, and secure software engineering
+* ⚡ Focused on practical product development and scalable solutions
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Featured Projects
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-paka\&show_icons=true)
+### 🔹 Fake Job Detector
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-paka\&layout=compact)
+AI-assisted fraud detection tool for identifying suspicious job postings, scam indicators, and unsafe recruiter patterns.
 
----
+### 🔹 Fresho Careers
 
-## 📌 Development Focus
+Full-stack job portal connecting job seekers and recruiters with structured backend logic and deployment-ready architecture.
 
-Backend Development • AI Applications • Secure Systems • Automation • Problem Solving
+### 🔹 Expense Tracker
 
----
-
-## 🌐 Portfolio
-
-https://ajaypaka-portfolio.vercel.app
-
-## 🔗 Connect With Me
-
-LinkedIn: https://linkedin.com/in/ajaypaka
+Python desktop application for transaction tracking, local data storage, and financial management.
 
 ---
 
-> Building software that solves practical problems with intelligence and security in mind.
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-Developer-blue"/>
+<img src="https://img.shields.io/badge/Python-Programming-blue"/>
+<img src="https://img.shields.io/badge/SQL-Database-blue"/>
+<img src="https://img.shields.io/badge/Git-VersionControl-blue"/>
+<img src="https://img.shields.io/badge/Linux-System-blue"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-blue"/>
+<img src="https://img.shields.io/badge/AI-Building-blue"/>
+</p>
+
+---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ajay-paka&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-paka&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-paka&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect
+
+* Portfolio → https://ajaypaka-portfolio.vercel.app
+* LinkedIn → https://linkedin.com/in/ajaypaka
+
+---
+
+<div align="center">
+
+## 🔥 Current Focus
+
+AI Applications • Secure Systems • Backend Engineering • Cybersecurity Learning
+
+</div>
+
+---
+
+<div align="center">
+
+> *Turning ideas into practical products through code.*
+
+</div>
