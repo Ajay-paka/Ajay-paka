@@ -72,7 +72,7 @@ Python desktop application for transaction tracking, local data storage, and fin
 
 * Portfolio → https://ajaypaka-portfolio.vercel.app
 * LinkedIn → https://linkedin.com/in/ajaypaka
-
+* Email → ajaypaka47023@gmail.com
 
 <br>
 
